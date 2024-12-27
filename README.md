@@ -20,8 +20,6 @@ To run this project, install the following dependencies:
 
 ---
 
-## Libraries Used
-
 ### **PySpark** (Big Data Processing and Machine Learning)
 - **`pyspark.sql.SparkSession`**: Used to create a Spark session.
 - **`pyspark.sql.functions`**: Includes utility functions for data manipulation, such as:
